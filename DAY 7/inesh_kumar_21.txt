@@ -1,0 +1,27 @@
+
+
+[{
+		"First Name": "inesh",
+		"Last Name": "kumar",
+		"Photo": "www.inesh.com",
+		"Department": "cse",
+		"Research Areas": "ML",
+		"Contact Details": "7737732154 ineshbadra99@gmail.com"
+	},
+	{
+		"First Name": "afzal",
+		"Last Name": "khan",
+		"Photo": "www.afzal.com",
+		"Department": "ME",
+		"Research Areas": "XYZ",
+		"Contact Details": "77377321319 & afzal@gmail.com"
+	},
+	{
+		"First Name": "punit",
+		"Last Name": "kumar",
+		"Photo": "www.punit.com",
+		"Department": "EC",
+		"Research Areas": "AB",
+		"Contact Details": "9001233012 & punit@gmail.com"
+	}
+]

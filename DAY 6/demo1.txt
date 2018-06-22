@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May 17 12:15:34 2018
+
+@author: inesh
+"""
+
+{
+    'Phone_Number' :'7737732154'
+    'Name':'inesh kumar'
+    'College_Name' :'skit'
+    'Branch' : 'cse'
+}
